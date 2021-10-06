@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Math teacher", "Computer software", "Website", "Graphic Designing", "Social Media Post"],
+        strings: ["Math teacher", "Computer teacher", "Website", "Graphic Designing", "Social Media Post"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
